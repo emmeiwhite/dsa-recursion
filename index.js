@@ -1,1 +1,3 @@
-console.log('We are here!')
+const recursiveProblems = require('./01-recursion-basics.js')
+
+recursiveProblems()
